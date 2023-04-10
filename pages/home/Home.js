@@ -6,7 +6,7 @@ import stl from './Home.module.scss'
 
 const Home = () => (
   <div className={stl.wrapper}>
-    <h1>{`Let's Start without wasting our precious time 🕗`}</h1>
+    <h1>Artex Game</h1>
 
     <Button label="Yay!" />
 
