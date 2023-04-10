@@ -1,3 +1,8 @@
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/93012310/230970799-dc0a1470-a318-4e7c-aab9-f4476f4e5365.png" />
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
